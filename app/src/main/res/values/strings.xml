@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZST</string>
+    <string-array name="spinner">
+        <item>sysDescr</item>
+        <item>sysObjectID</item>
+        <item>sysUpTime</item>
+        <item>sysName</item>
+        <item>sysServices</item>
+        <item>icmpInMsgs</item>
+        <item>icmpInDestUnreachs</item>
+    </string-array>
+</resources>
